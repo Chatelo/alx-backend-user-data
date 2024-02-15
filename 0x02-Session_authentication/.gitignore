@@ -1,0 +1,9 @@
+venv/
+__MACOSX/
+data.zip
+SimpleAPI
+__pycache__
+__pycache__/
+.idea
+.idea/
+.DS_Store
